@@ -11,7 +11,6 @@ Hello! I love building softwares and working on various technologies to make imp
 
 ![MacOS](https://img.shields.io/badge/-MacOS-grey?logo=Apple&style=plastic)&nbsp;&nbsp;
 ![VScode](https://img.shields.io/badge/-VScode-grey?logo=visual-studio-code&style=plastic)&nbsp;&nbsp;
-![Sublime](https://img.shields.io/badge/-SublimeText-grey?logo=sublimetext&style=plastic)&nbsp;&nbsp;
 ![iTerm2](https://img.shields.io/badge/-iTerm2-grey?logo=Apple&style=plastic)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-grey?logo=html5&style=plastic)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-grey?logo=css3&style=plastic)&nbsp;&nbsp;
