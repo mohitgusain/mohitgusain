@@ -11,7 +11,7 @@ Hello! I love building softwares and working on various technologies to make imp
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohitgusain&margin-w=15)](https://github.com/mohitgusain/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohitgusain&margin-w=15&theme=gruvbox)](https://github.com/mohitgusain/github-profile-trophy)
 
 
 ### &#x1f4c8; GitHub Stats
