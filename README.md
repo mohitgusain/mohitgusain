@@ -7,27 +7,27 @@ Hello! I love building softwares and working on various technologies to make imp
 
 ### 🔧 Tools  & Technologies
 
-![MacOS](https://img.shields.io/badge/-MacOS-black?logo=Apple&style=social)&nbsp;
-![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;
-![Sublime](https://img.shields.io/badge/-SublimeText-black?logo=sublimetext&style=social)&nbsp;
-![iTerm2](https://img.shields.io/badge/-iTerm2-black?logo=Apple&style=social)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social&logoColor=yellow)&nbsp;
-![Elixir](https://img.shields.io/badge/-Elixir-black?logo=elixir&style=social)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-black?logo=Apple&style=social)&nbsp;&nbsp;
+![VScode](https://img.shields.io/badge/-VScode-black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
+![Sublime](https://img.shields.io/badge/-SublimeText-black?logo=sublimetext&style=social)&nbsp;&nbsp;
+![iTerm2](https://img.shields.io/badge/-iTerm2-black?logo=Apple&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=social&logoColor=yellow)&nbsp;&nbsp;
+![Elixir](https://img.shields.io/badge/-Elixir-black?logo=elixir&style=social)&nbsp;&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social&logoColor=blue)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social&logoColor=blue)&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;
-![BigQuery](https://img.shields.io/badge/-BigQuery-black?logo=googlecloud&style=social)&nbsp;
-![DataStudio](https://img.shields.io/badge/-DataStudio-black?logo=googleanalytics&style=social)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Wordpress-black?logo=wordpress&style=social)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-black?logo=amazonaws&style=social)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-black?logo=dotnet&style=social)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social&logoColor=blue)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![BigQuery](https://img.shields.io/badge/-BigQuery-black?logo=googlecloud&style=social)&nbsp;&nbsp;
+![DataStudio](https://img.shields.io/badge/-DataStudio-black?logo=googleanalytics&style=social)&nbsp;&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?logo=wordpress&style=social)&nbsp;&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-black?logo=amazonaws&style=social)&nbsp;&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-black?logo=dotnet&style=social)&nbsp;&nbsp;
 
 
 ### 🏆 GitHub Trophies
