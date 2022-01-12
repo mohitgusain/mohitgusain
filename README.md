@@ -9,6 +9,13 @@ Hello! I love building softwares and working on various technologies to make imp
 
 <hr/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitgusain&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitgusain&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohitgusain&margin-w=15)](https://github.com/mohitgusain/github-profile-trophy)
 
 
+### &#x1f4c8; GitHub Stats
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mohitgusain&show_icons=true&theme=vue" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mohitgusain" width = 400>
+</p>
