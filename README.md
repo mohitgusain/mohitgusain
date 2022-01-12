@@ -38,6 +38,6 @@ Hello! I love building softwares and working on various technologies to make imp
 
 ### &#x1f4c8; GitHub Stats
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mohitgusain&show_icons=true&theme=vue" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mohitgusain" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=mohitgusain&show_icons=true&theme=merko" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mohitgusain&theme=merko" width = 400>
 </p>
