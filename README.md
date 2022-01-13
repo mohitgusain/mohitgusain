@@ -1,9 +1,15 @@
+ <p>
+  <img width="250" align='left' src="https://github.com/AkhileshNegi/AkhileshNegi/blob/main/cc.png?raw=true">
+</p>
+ 
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello! I love building softwares and working on various technologies to make impact on real life. I am leading the social sector domain in <a href="https://coloredcow.com?utm_source=github&utm_medium=mohitgusain">ColoredCow</a>.
 
-<a href="https://instagram.com/mohitgusain"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
+I love building software and working on various technologies to make an impact on real life. I am leading the social sector domain in <a href="https://coloredcow.com?utm_source=github&utm_medium=mohitgusain">ColoredCow</a>.
+<br>&nbsp;
+<!-- <a href="https://instagram.com/mohitgusain"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
 <a href="https://www.linkedin.com/in/mohit-gusain-43b27195/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-
+ -->
 
 ### 🔧 Tools  & Technologies
 
